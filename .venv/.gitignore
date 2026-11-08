@@ -1,0 +1,15 @@
+# Python environment
+.venv/
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# Environment variables
+.env
+
+# Dataset (download separately)
+index_1.csv
